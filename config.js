@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['94741938138', 'Nidu Tech Official', true],
+  ['94741938138', 'Nidu Tech Official', true], 
   [''] 
 ] //Number of owners
 
@@ -59,8 +59,8 @@ global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.wait = '*⌛L O A D I N G. . .⌛ P L E A S E  W A I T . .⌛ IAM  U P L O A D I N G  Y O U R  M E D I A...💖*'
+global.rwait = '♻️'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
